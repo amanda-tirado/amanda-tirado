@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amanda</h1>
-<h3 align="center">A passionate frontend developer from Madrid, Spain</h3>
+<h1 align="left">Hi 👋, I'm Amanda</h1>
+<h3 align="left">A passionate frontend developer from Madrid, Spain</h3>
 
 - 🔭 I’m currently working on **Neuronic**
 
@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanda-tirado&show_icons=true&locale=en&layout=compact" alt="amanda-tirado" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanda-tirado&show_icons=true&locale=en" alt="amanda-tirado" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amanda-tirado&show_icons=true&locale=en" alt="amanda-tirado" /></p>
