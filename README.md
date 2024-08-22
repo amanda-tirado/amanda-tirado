@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amanda-tirado&show_icons=true&locale=en" alt="amanda-tirado" /></p>
 
-<p><img align="left" src="https://img.shields.io/github/commit-activity/m/amanda-tirado/scroll-jquery" alt="amanda-tirado" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanda-tirado&show_icons=true&locale=en&layout=compact" alt="amanda-tirado" /></p>
